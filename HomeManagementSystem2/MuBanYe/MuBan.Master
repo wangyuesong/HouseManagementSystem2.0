@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MuBan.master.cs" Inherits="MuBanYeTest.MuBan" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MuBan.master.cs" Inherits="HomeManagementSystem2.MuBan" %>
 
 <!DOCTYPE html>
 

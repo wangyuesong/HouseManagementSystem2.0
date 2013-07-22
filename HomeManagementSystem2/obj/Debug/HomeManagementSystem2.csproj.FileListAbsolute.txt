@@ -1,1 +1,5 @@
 C:\Users\wys\Desktop\HomeManagementSystem2\HomeManagementSystem2\obj\Debug\HomeManagementSystem2.csprojResolveAssemblyReference.cache
+C:\Users\wys\Desktop\HomeManagementSystem2\HomeManagementSystem2\bin\HomeManagementSystem2.dll
+C:\Users\wys\Desktop\HomeManagementSystem2\HomeManagementSystem2\bin\HomeManagementSystem2.pdb
+C:\Users\wys\Desktop\HomeManagementSystem2\HomeManagementSystem2\obj\Debug\HomeManagementSystem2.dll
+C:\Users\wys\Desktop\HomeManagementSystem2\HomeManagementSystem2\obj\Debug\HomeManagementSystem2.pdb

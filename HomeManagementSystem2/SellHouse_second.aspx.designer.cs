@@ -7,7 +7,7 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace MuBanYeTest {
+namespace HomeManagementSystem2 {
     
     
     public partial class SellHouse_second {

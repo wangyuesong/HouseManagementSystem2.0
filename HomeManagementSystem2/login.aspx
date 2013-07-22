@@ -1,4 +1,4 @@
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="login.aspx.cs" Inherits="MuBanYeTest.login" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="login.aspx.cs" Inherits="HomeManagementSystem2.login" %>
 
 <!DOCTYPE html>
 <html lang="zh">

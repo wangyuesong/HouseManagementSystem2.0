@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MuBanYe/MuBan.Master" AutoEventWireup="true" CodeBehind="SellHouse_first.aspx.cs" Inherits="MuBanYeTest.SellHouse_first" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MuBanYe/MuBan.Master" AutoEventWireup="true" CodeBehind="SellHouse_first.aspx.cs" Inherits="HomeManagementSystem2.SellHouse_first" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
       <link  href="css/Wrapper.css" rel="stylesheet" type="text/css" />
 </asp:Content>

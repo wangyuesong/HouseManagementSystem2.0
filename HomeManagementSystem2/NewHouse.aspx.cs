@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace MuBanYeTest
+namespace HomeManagementSystem2
 {
     public partial class NewHouse : System.Web.UI.Page
     {

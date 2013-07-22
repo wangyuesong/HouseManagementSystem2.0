@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace MuBanYeTest
+namespace HomeManagementSystem2
 {
    
     public static class Commons
     {
-      public  static DataClasses1DataContext dc = new DataClasses1DataContext();
+        public static DataClasses1DataContext dc = new DataClasses1DataContext();
         public static bool doLogin(string UserEmail,string UserPassword)
         {
            
