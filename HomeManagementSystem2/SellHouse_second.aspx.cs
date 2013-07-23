@@ -14,6 +14,8 @@ namespace HomeManagementSystem2
             SellHouse_first  shf = (SellHouse_first)Context.Handler;
             
          Jianjie.Text = shf.A_Xiaoqu + "小区" + shf.A_Shi+ "室" + shf.A_Ting + "厅" + shf.A_Wei + "卫,面积"+shf.A_Mianji+"平方米. 售价" +shf.A_Jiage+"万元";
+
+            var all_agent = 
         }
         
 

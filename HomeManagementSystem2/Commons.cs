@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-
+using System.Data.SqlClient;
+using System.Configuration;
 namespace HomeManagementSystem2
 {
    
@@ -42,5 +43,14 @@ namespace HomeManagementSystem2
             return dc.person.FirstOrDefault(a => a.email == UserEmail);
         }
 
+        public void getAllAgents()
+        {
+            var query = from p in dc.person
+                        from a in dc.agent
+                        where p.person_id == a.person_id
+                        select new { name = p.names, profession = a.profession, register_date = a.register_date, trade_number = a.trade_number };
+            return query;
+                
+        }
     }
 }

@@ -19,7 +19,20 @@
        <div class="wrapper-border-grey">
 
 
-           <asp:DataList ID="DataList1" runat="server">
+           <asp:DataList ID="DataList1" runat="server" HorizontalAlign="Center">
+               <ItemTemplate>
+                   <table>
+                       <tr>
+                           <td><img src="ss"/></td>
+                           <td><span>
+                               <asp:Label ID="person_id" runat="server" Text="Label"></asp:Label>
+                               </span></td>
+                            <td><span>
+                                <asp:Label ID="profession" runat="server" Text="Label"></asp:Label>
+                               </span></td>
+                       </tr>
+                   </table>
+               </ItemTemplate>
            </asp:DataList>
 
 
